@@ -99,8 +99,3 @@ Check the `oracle_scripts.zip` in this repo for:
 Mohammad Ashab  
 Student | Developer | Oracle DB Enthusiast
 
----
-
-## ✅ Status
-
-📌 Final version ready for submission.
